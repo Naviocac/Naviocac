@@ -2,8 +2,6 @@
 
 ## Computer Engineering student at the University of Jaén
 
-👨‍💻 My projects are available at [github.com/Naviocac](https://github.com/Naviocac?tab=repositories)
-
 📫 Reach me by email at [ivan.cocacozar@gmail.com](mailto:ivan.cocacozar@gmail.com)
 
 💼 More about me on [LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-coca-c%C3%B3zar-b6a92b434)
